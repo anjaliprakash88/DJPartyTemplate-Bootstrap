@@ -1,0 +1,14 @@
+.bg-image {
+    background-image: url('images/dj.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust the height as needed */
+}
+.frame-container {
+    position: absolute;
+    top: 50%; /* Center vertically */
+    left: 40%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Center both horizontally and vertically */
+    padding: 20px; /* Adjust the padding as needed */
+    
+}
